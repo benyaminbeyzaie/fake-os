@@ -1,0 +1,16 @@
+3
+java
+-classpath
+bin/oshw2/
+8000
+2
+FCFS
+NONE
+8001
+1 2 3 0
+2
+50 0 500 1 150 2
+50 2 100 1 100 0
+
+task 0 executed successfully with result 6
+task 1 executed successfully with result 5

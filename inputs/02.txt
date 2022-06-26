@@ -1,0 +1,21 @@
+3
+java
+-classpath
+bin/
+8000
+2
+RR
+100
+NONE
+8001
+0 1 2 3
+4
+100 0 100 0 100 0 100 3
+100 1 100 1 100 2 100 1 100 1
+100 2 100 3 100 0
+100 3
+
+task 3 executed successfully with result 3
+task 2 executed successfully with result 5
+task 0 executed successfully with result 3
+task 1 executed successfully with result 6
